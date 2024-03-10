@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+
+.container {
+  flex-direction: column;
+  justify-content: space-between;
+  width: 96px;
+  height: 116px;
+  display: flex;
+}
+
+/*# sourceMappingURL=index.af20ad6e.css.map */
